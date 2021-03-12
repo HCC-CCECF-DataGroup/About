@@ -3,5 +3,5 @@ The Hampshire County Council [Climate Change Expert Consultative Forum](https://
 
 This github orgnisation is intended to support this voluntary work. For more information see:
 
- * Our [Terms of Reference](https://github.com/HCC-CCECF-DataGroup/ToR) (draft, currently private)
+ * Our [Terms of Reference](https://github.com/HCC-CCECF-DataGroup/ToR) (draft)
  * Our various [repositories](https://github.com/HCC-CCECF-DataGroup) - hopefully self-explanatory
